@@ -49,7 +49,9 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Multiples.fs" />
+    <Compile Include="Fibonacci.fs" />
     <Compile Include="Problem1.fs" />
+    <Compile Include="Problem2.fs" />
     <Compile Include="Program.fs" />
     <None Include="App.config" />
   </ItemGroup>
